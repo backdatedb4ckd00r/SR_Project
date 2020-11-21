@@ -1,0 +1,29 @@
+.top-nav {
+    background-color: #39F30F;
+    border-radius: 0px 0px 8px 8px;
+    border;
+    border-bottom-style: solid;
+    border-color: beige;
+    overflow: hidden;
+    padding: 15px 5px 2px 2px;
+}
+.top-nav a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    padding: 6px;
+    text-align: center;
+/*    text-transform: uppercase;*/
+    font-family: fantasy;
+}
+
+.top-nav a:hover {
+    background-color: black;
+    color: white;
+    transition: 0.8s;
+    opacity: 1;
+}
+
+.footer-bottom {
+    background-color: #eee; 
+}
